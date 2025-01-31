@@ -40,3 +40,8 @@ This structured approach enables us to model relationships between assets, vulne
 1. We constructed a **Bayesian Network** based on the given data.
 2. We calculate the **posterior probabilities** of successful exploitation for each asset by integrating prior attack probabilities, conditional probabilities of attack success, and relationships between assets, vulnerabilities, and attack vectors.
 3. We **ranked assets** based on risk and provide insights into which assets are most vulnerable.
+
+## References
+
+1. https://timlaytonllc.com/2024/07/03/machine-learning-vs-bayesian-statistics-in-python-for-cybersecurity-risk-analysis/
+2. https://www.linkedin.com/pulse/overview-pgmpy-python-library-cybersecurity-risk-analysis-tim-layton-rriac/
